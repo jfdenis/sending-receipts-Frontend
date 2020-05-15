@@ -1,0 +1,10 @@
+.form__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__description h1 {
+  font-weight: 100;
+}

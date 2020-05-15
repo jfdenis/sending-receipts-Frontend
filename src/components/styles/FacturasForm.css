@@ -1,0 +1,24 @@
+.form__container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.form__item {
+  width: 47vw;
+}
+.form__container-items {
+  text-align: center;
+}
+
+.form__container-items button {
+  text-align: center;
+}
+.select__container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.select__container select {
+  width: 200px;
+}
